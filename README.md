@@ -32,8 +32,7 @@ This system develops a map guidance platform utilizing **Kruskal's algorithm** t
 
 
 ## project URL
-https://github.com/williamsconcepts/STANS
-
+https://roadmap.sh/projects/stans-navigation-deployment
 
 ## Course Information
 
