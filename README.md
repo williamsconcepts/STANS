@@ -31,8 +31,8 @@ This system develops a map guidance platform utilizing **Kruskal's algorithm** t
 
 
 
-## Demo
-https://github.com/user-attachments/assets/316df9d7-7e5a-47f3-9cdd-c0bae09110ae
+## project URL
+https://github.com/williamsconcepts/STANS
 
 
 ## Course Information
